@@ -98,7 +98,7 @@ Brak komunikatu:
 
 Proces nie jest automatycznie wznowiony.
 
-### Wpływ na użytkownika 13–15 lat
+### Wpływ na użytkownika 13-15 lat
 Może powodować:
 - dezorientację,
 - przerwanie procesu,
@@ -144,7 +144,7 @@ Aplikacja silnie promuje codzienną naukę poprzez:
 - intensywne powiadomienia push,
 - dynamiczną zmianę ikony aplikacji (np. „smutna” wersja logo przy dłuższej nieaktywności).
 
-### Analiza z perspektywy użytkownika 13–15 lat
+### Analiza z perspektywy użytkownika 13-15 lat
 W tym wieku mechanizmy oparte na utrzymywaniu serii mogą:
 - wzmacniać motywację krótkoterminową,
 - ale także generować poczucie presji i winy przy przerwaniu ciągłości.
@@ -192,7 +192,7 @@ Brak problemu
 ## Pozytywne elementy onboardingowe
 
 - Ekrany początkowe są czytelne i intuicyjne, łatwo przechodzi się do kolejnych etapów.
-- Kolorystyka stonowana, nie męczy wzroku (dobry balans kontrastu – kolory podstawowe zajmują ~70% powierzchni, kolory akcentujące ~30%).
+- Kolorystyka stonowana, nie męczy wzroku (dobry balans kontrastu - kolory podstawowe zajmują ~70% powierzchni, kolory akcentujące ~30%).
 - Oferta wersji premium jasno przedstawiona, możliwa do pominięcia.
 - Wybór dziennego celu i liczby słów do nauki jest przejrzysty i motywujący.
 
